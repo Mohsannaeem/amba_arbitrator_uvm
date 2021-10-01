@@ -1,0 +1,3 @@
+[submodule "uvm_tb/interface/amba_protocol"]
+	path = uvm_tb/interface/amba_protocol
+	url = https://github.com/Mohsannaeem/amba_protocol.git
